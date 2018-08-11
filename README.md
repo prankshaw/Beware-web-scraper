@@ -10,4 +10,6 @@ This project uses selenium driver.
 > pip install pandas</strong> <br>
 > Change path of 'chromedriver' with your own path.<br>
 > Just run in IDLE and see the output <br>
-> 
+# License
+Licensed under MIT-license
+https://prankshaw.mit-license.org/
