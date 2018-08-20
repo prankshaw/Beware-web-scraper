@@ -2,8 +2,8 @@
 It is my take on basics of web scraping, <strong>made while learning.</strong> <br>
 Tells about top projects for 'C' language from github.<br>
 ## ICC Rankings-Scraper
-Tells about top 100 ranked batsmen from all over the world for all 3 formats, i.e. Test cricket, One day International and T20 International
-These project uses selenium driver.
+Tells about top 100 ranked batsmen from all over the world for all 3 formats, i.e. Test cricket, One day International and T20 International.<br>
+<strong>These project uses selenium driver.</strong>
 #### To use project
 > Just fork the project and the install the prerequisities. <br>
 > Python (I am using Python 3) <br>
