@@ -1,7 +1,9 @@
-# C-project-scraper
+## C-project-scraper
 It is my take on basics of web scraping, <strong>made while learning.</strong> <br>
 Tells about top projects for 'C' language from github.<br>
-This project uses selenium driver.
+## ICC Rankings-Scraper
+Tells about top 100 ranked batsmen from all over the world for all 3 formats, i.e. Test cricket, One day International and T20 International
+These project uses selenium driver.
 #### To use project
 > Just fork the project and the install the prerequisities. <br>
 > Python (I am using Python 3) <br>
