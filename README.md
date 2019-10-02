@@ -1,11 +1,19 @@
+## Visit The project here
+https://prankshaw.github.io/Beware-web-scraper/
+# Scrapers available
+<ol>
+  
 ## C-project-scraper
 It is my take on basics of web scraping, <strong>made while learning.</strong> <br>
 Tells about top projects for 'C' language from github.<br>
 ## ICC Rankings-Scraper
 Tells about top 100 ranked batsmen from all over the world for all 3 formats, i.e. Test cricket, One day International and T20 International.<br>
 ## Youtube Trending-Scraper
-Scrpaes all the information form trending section of youtune, including video name, description available and video liks<br>
+Scrapes all the information form trending section of youtune, including video name, description available and video liks<br>
 <br>
+
+</ol>  
+
 ## <strong>These project use selenium driver.</strong>
 #### To use project
 > Just fork the project and the install the prerequisities. <br>
