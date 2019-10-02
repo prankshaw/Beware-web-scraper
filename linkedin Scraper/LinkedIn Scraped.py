@@ -1,8 +1,16 @@
+# Just run the following cells to scrape data from your LinkedIn profile (or anyone's, if you know their password :) ). 
+# Replace the content of "config.txt" file with the desired username or password to let it automatically fill duing login. 
+# Also remember to change the path of driver (mentioned in the cell), to your own location in Line 12. 
+# Change to your own LinkedIn username in line 30
+# This particular wrapper scrapes the information data like name, connections, profile titile, location from the LikedIn profile and can easily be extended to other sections of profile.  
+# Now, you only require to have selenium and chrome driver installed in your machine and start have fun!!
+
+
 import requests, time, random
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
-browser = webdriver.Chrome('C:/Users/pranjal/Desktop/softwares/chromedriver/chromedriver_win32/chromedriver.exe') # Change the location of chromedriver Here
+browser = webdriver.Chrome('C:/SomeLocation/chromedriver/chromedriver_win32/chromedriver.exe') # Change the location of chromedriver Here
 browser.get('https://www.linkedin.com/uas/login')
 file = open('config.txt')
 lines = file.readlines()
