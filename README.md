@@ -10,7 +10,6 @@ Tells about top projects for 'C' language from github.<br>
 Tells about top 100 ranked batsmen from all over the world for all 3 formats, i.e. Test cricket, One day International and T20 International.<br>
 ## Youtube Trending-Scraper
 Scrapes all the information from trending section of youtune, including video name, description available and video liks<br>
-<br>
 ## LinkedIn-Scraper
 Automatically LogIn to the profile and scrapes the relavant information from profile, including name, location, title, connections and more<br>
 <br>
