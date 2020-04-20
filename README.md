@@ -1,7 +1,7 @@
 ## Visit The project here
 https://prankshaw.github.io/Beware-web-scraper/
 
-[![Build Status](https://travis-ci.com/prankshaw/Beware-web-scraper.svg?branch=master)](https://travis-ci.com/prankshaw/Beware-web-scraper)
+<!--[![Build Status](https://travis-ci.com/prankshaw/Beware-web-scraper.svg?branch=master)](https://travis-ci.com/prankshaw/Beware-web-scraper)-->
 [![codecov](https://codecov.io/gh/prankshaw/Beware-web-scraper/branch/master/graph/badge.svg)](https://codecov.io/gh/prankshaw/Beware-web-scraper)
 [![Updates](https://pyup.io/repos/github/prankshaw/Beware-web-scraper/shield.svg)](https://pyup.io/repos/github/prankshaw/Beware-web-scraper)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
