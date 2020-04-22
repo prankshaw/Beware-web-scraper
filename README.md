@@ -1,6 +1,7 @@
 ## Visit The project here
 https://prankshaw.github.io/Beware-web-scraper/
 
+<a href="/issues"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square"></a>
 <!--[![Build Status](https://travis-ci.com/prankshaw/Beware-web-scraper.svg?branch=master)](https://travis-ci.com/prankshaw/Beware-web-scraper)
 [![codecov](https://codecov.io/gh/prankshaw/Beware-web-scraper/branch/master/graph/badge.svg)](https://codecov.io/gh/prankshaw/Beware-web-scraper)
 [![Updates](https://pyup.io/repos/github/prankshaw/Beware-web-scraper/shield.svg)](https://pyup.io/repos/github/prankshaw/Beware-web-scraper)-->
@@ -11,15 +12,15 @@ https://prankshaw.github.io/Beware-web-scraper/
 # Scrapers available
 <ol>
   
-## C-project-scraper
+### C-project-scraper
 Scrapes the top projects for 'C' language from github. It can be extended to get projects in any language present on GitHub.<br>
-## ICC Rankings-Scraper
+### ICC Rankings-Scraper
 Tells about top 100 ranked batsmen from all over the world for all 3 formats, i.e. Test cricket, One day International and T20 International.<br>
-## Youtube Trending-Scraper
+### Youtube Trending-Scraper
 Scrapes all the information from trending section of youtune, including video name, description available and video liks<br>
-## LinkedIn-Scraper
+### LinkedIn-Scraper
 Automatically LogIn to the profile and scrapes the relavant information from profile, including name, location, title, connections and more<br>
-## Wikipedia Image-Scraper
+### Wikipedia Image-Scraper
 Scrapes links of all the images present in the given wikipedia page and prints them<br>
 <br>
 
