@@ -1,13 +1,13 @@
-## Visit The project here
+## Visit The project here  <a href="../../issues"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square"></a>
 https://prankshaw.github.io/Beware-web-scraper/
 
-<a href="../../issues"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square"></a>
-<!--[![Build Status](https://travis-ci.com/prankshaw/Beware-web-scraper.svg?branch=master)](https://travis-ci.com/prankshaw/Beware-web-scraper)
-[![codecov](https://codecov.io/gh/prankshaw/Beware-web-scraper/branch/master/graph/badge.svg)](https://codecov.io/gh/prankshaw/Beware-web-scraper)
-[![Updates](https://pyup.io/repos/github/prankshaw/Beware-web-scraper/shield.svg)](https://pyup.io/repos/github/prankshaw/Beware-web-scraper)-->
+[![Build Status](https://travis-ci.com/prankshaw/Beware-web-scraper.svg?branch=master)](https://travis-ci.com/prankshaw/Beware-web-scraper)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40mepranjal31)](https://twitter.com/mepranjal31)
+
+<!--[![codecov](https://codecov.io/gh/prankshaw/Beware-web-scraper/branch/master/graph/badge.svg)](https://codecov.io/gh/prankshaw/Beware-web-scraper)
+[![Updates](https://pyup.io/repos/github/prankshaw/Beware-web-scraper/shield.svg)](https://pyup.io/repos/github/prankshaw/Beware-web-scraper)-->
 
 # Scrapers available
 <ol>
