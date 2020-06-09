@@ -4,13 +4,14 @@ https://prankshaw.github.io/Beware-web-scraper/
 [![Build Status](https://travis-ci.com/prankshaw/Beware-web-scraper.svg?branch=master)](https://travis-ci.com/prankshaw/Beware-web-scraper)
 [![Documentation Status](https://readthedocs.org/projects/beware-web-scraper/badge/?version=latest)](https://beware-web-scraper.readthedocs.io/en/latest/?badge=latest)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+[![codecov](https://codecov.io/gh/prankshaw/Beware-web-scraper/branch/master/graph/badge.svg)](https://codecov.io/gh/prankshaw/Beware-web-scraper)
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 <a href="../../issues"><img alt="Issues Open" src="https://img.shields.io/github/issues/prankshaw/Beware-web-scraper?color=pink"></a>
 <a href="../../issues"><img alt="Forks" src="https://img.shields.io/github/forks/prankshaw/Beware-web-scraper?color=purple"></a>
 <a href="../../issues"><img alt="Stars" src="https://img.shields.io/github/stars/prankshaw/Beware-web-scraper?color=yellow"></a>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40mepranjal31)](https://twitter.com/mepranjal31)
-<!--[![codecov](https://codecov.io/gh/prankshaw/Beware-web-scraper/branch/master/graph/badge.svg)](https://codecov.io/gh/prankshaw/Beware-web-scraper)
-[![Updates](https://pyup.io/repos/github/prankshaw/Beware-web-scraper/shield.svg)](https://pyup.io/repos/github/prankshaw/Beware-web-scraper)-->
+
+<!--[![Updates](https://pyup.io/repos/github/prankshaw/Beware-web-scraper/shield.svg)](https://pyup.io/repos/github/prankshaw/Beware-web-scraper)-->
 
 # Scrapers available
 <ol>
